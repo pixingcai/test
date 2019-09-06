@@ -20,6 +20,8 @@
 
     ! Body of Console1
     print *, 'Hello World'
+    
+    print *, 'you are not an idol'
 
     end program Console1
 
